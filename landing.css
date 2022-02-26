@@ -56,11 +56,22 @@ img {
     transform: translate(30% , -50%);
 }
 
-.header a{
+.header .signin{
     position: absolute;
     top: 50%;
     right: 0;
     transform: translate(-55% , -65%);
+}
+
+.header .linktobrowse {
+    position: absolute;
+    top: 50%;
+    right: 10%;
+    transform: translate(-55% , -65%);
+}
+
+.linktobrowse:hover {
+    text-decoration: underline;
 }
 
 .landing-desc{

@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <title>Browse Films</title>
+</head>
+
+<body>
+    <div class="header movie-header">
+        <div class="nav">
+            <img src="images/logo.png" alt="">
+            <a href="./series.html">Series</a>
+            <a href="./films.html">Films</a>
+        </div>
+        <div class="banner">
+            <h1>Watch Joker Now</h1>
+            <p>Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham
+                City Arthur
+                wears two masks -- the one he paints for his day job as a clown, and the guise he projects in a futile
+                attempt to feel
+                like he's part of the world around him.</p>
+            <button class="play" onclick="showPopup()">Play</button>
+            <div class="popup">
+                <div class="blocker" onclick="hidePopup()"></div>
+                <div class="contents">
+                    <video controls>
+                        <source src="Oscar Nominated 3D Animated Shorts Sweet Cocoon - by ESMA  TheCGBros.mp4"
+                            type="video/mp4">
+                        Your browser does not support HTML video.
+                    </video>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slides-container">
+        <h2>Popular</h2>
+        <div class="slides">
+            <img src="images/movie/popular/dolittle.jpg" alt="" id="Dolittle"
+                onclick="showmoviecard('popular','Dolittle')">
+            <img src="images/movie/popular/redNotice.jpg" alt="" id="Red Notice"
+                onclick="showmoviecard('popular', 'Red Notice')">
+            <img src="images/movie/popular/theFameGame.jpg" alt="" id="The Fame Game"
+                onclick="showmoviecard('popular', 'The Fame Game')">
+            <img src="images/movie/popular/spiderman.jpg" alt="" id="Spider-Man: Far from Home"
+                onclick="showmoviecard('popular', 'Spider-Man: Far from Home')">
+            <img src="images/movie/popular/theAngryBirds.jpg" alt="" id="The Angry Birds Movie 2"
+                onclick="showmoviecard('popular', 'The Angry Birds Movie 2')">
+            <img src="images/movie/popular/dangal.jpg" alt="" id="Dangal" onclick="showmoviecard('popular', 'Dangal')">
+            <img src="images/movie/popular/transylvania.jpg" alt="" id="Hotel Transylvania"
+                onclick="showmoviecard('popular', 'Hotel Transylvania')">
+            <img src="images/movie/popular/theCroods.jpg" alt="" id="The Croods"
+                onclick="showmoviecard('popular', 'The Croods')">
+            <img src="images/movie/popular/dora.jpg" alt="" id="Dora and the Lost City of Gold"
+                onclick="showmoviecard('popular', 'Dora and the Lost City of Gold')">
+            <img src="images/movie/popular/standByMe.jpg" alt="" id="STAND BY ME Doraemon 2"
+                onclick="showmoviecard('popular', 'STAND BY ME Doraemon 2')">
+            <img src="images/movie/popular/tallGirl.jpg" alt="" id="Tall Girl 2"
+                onclick="showmoviecard('popular', 'Tall Girl 2')">
+        </div>
+        <div id="popular" class="feat-card popular inactive"></div>
+
+        <h2>Drama</h2>
+        <div class="slides">
+            <img src="images/movie/drama/thePrincessSwitch.jpg" alt="" id="The Princess Switch"
+                onclick="showmoviecard('drama', 'The Princess Switch')">
+            <img src="images/movie/drama/feelTheBeat.jpg" alt="" id="Feel The Beat"
+                onclick="showmoviecard('drama', 'Feel The Beat')">
+            <img src="images/movie/drama/cycle.jpg" alt="" id="Cycle" onclick="showmoviecard('drama', 'Cycle')">
+            <img src="images/movie/drama/aChristmasPrince.jpg" alt="" id="A Christmas Prince"
+                onclick="showmoviecard('drama', 'A Christmas Prince')">
+            <img src="images/movie/drama/june&kopi.jpg" alt="" id="June & Kopi"
+                onclick="showmoviecard('drama', 'June & Kopi')">
+            <img src="images/movie/drama/littleWoman.jpg" alt="" id="Little Woman"
+                onclick="showmoviecard('drama', 'Little Woman')">
+            <img src="images/movie/drama/theBlueUmbrella.jpg" alt="" id="The Blue Umbrella"
+                onclick="showmoviecard('drama', 'The Blue Umbrella')">
+            <img src="images/movie/drama/thekaratekid.jpg" alt="" id="The Karate Kid"
+                onclick="showmoviecard('drama', 'The Karate Kid')">
+            <img src="images/movie/drama/theWaterMan.jpg" alt="" id="The Water Man"
+                onclick="showmoviecard('drama', 'The Water Man')">
+            <img src="images/movie/drama/wasao.jpg" alt="" id="Wasao" onclick="showmoviecard('drama', 'Wasao')">
+            <img src="images/movie/drama/whiteFang.jpg" alt="" id="White Fang"
+                onclick="showmoviecard('drama', 'White Fang')">
+        </div>
+        <div id="drama" class="feat-card drama inactive"></div>
+        <h2>Fantasy</h2>
+        <div class=" slides">
+            <img src="images/movie/fantasy/journey2.jpg" alt="" id="Journey 2: The Mysterious Island"
+                onclick="showmoviecard('fantasy', 'Journey 2: The Mysterious Island')">
+            <img src="images/movie/fantasy/warcraft.jpg" alt="" id="Warcraft"
+                onclick="showmoviecard('fantasy', 'Warcraft')">
+            <img src="images/movie/fantasy/pk.jpg" alt="" id="PK" onclick="showmoviecard('fantasy', 'PK')">
+            <img src="images/movie/fantasy/mowgli.jpg" alt="" id="Mowgli: Legend of the Jungle"
+                onclick="showmoviecard('fantasy', 'Mowgli: Legend of the Jungle')">
+            <img src="images/movie/fantasy/jumanji.jpg" alt="" id="Jumanji: Welcome to the Jungle"
+                onclick="showmoviecard('fantasy', 'Jumanji: Welcome to the Jungle')">
+            <img src="images/movie/fantasy/fistfulOfVengeance.jpg" alt="" id="Fistful of Vengeance"
+                onclick="showmoviecard('fantasy', 'Fistful of Vengeance')">
+            <img src="images/movie/fantasy/godsOfEgypt.jpg" alt="" id="Gods of Egypt"
+                onclick="showmoviecard('fantasy', 'Gods of Egypt')">
+            <img src="images/movie/fantasy/monsterHunter.jpg" alt="" id="Monster Hunter"
+                onclick="showmoviecard('fantasy', 'Monster Hunter')">
+            <img src="images/movie/fantasy/theLastAirbender.jpg" alt="" id="The Last Airbender"
+                onclick="showmoviecard('fantasy', 'The Last Airbender')">
+            <img src="images/movie/fantasy/theMummy.jpg" alt="" id="The Mummy"
+                onclick="showmoviecard('fantasy', 'The Mummy')">
+            <img src="images/movie/fantasy/goosebumps.jpg" alt="" id="Goosebumps"
+                onclick="showmoviecard('fantasy', 'Goosebumps')">
+        </div>
+        <div id="fantasy" class="feat-card fantasy inactive"></div>
+        <h2>Action</h2>
+        <div class="slides">
+            <img src="images/movie/action/extraction.jpg" alt="" id="Extraction"
+                onclick="showmoviecard('action', 'Extraction')">
+            <img src="images/movie/action/theMeg.jpg" alt="" id="The Meg" onclick="showmoviecard('action', 'The Meg')">
+            <img src="images/movie/action/theEqualizer.jpg" alt="" id="The Equalizer 2"
+                onclick="showmoviecard('action', 'The Equalizer 2')">
+            <img src="images/movie/action/gangsOfWasseypur.jpg" alt="" id="Gangs of Wasseypur: Part 1"
+                onclick="showmoviecard('action', 'Gangs of Wasseypur: Part 1')">
+            <img src="images/movie/action/missionImpossible.jpg" alt="" id="Mission: Impossible - Fallout"
+                onclick="showmoviecard('action', 'Mission: Impossible - Fallout')">
+            <img src="images/movie/action/2012.jpg" alt="" id="2012" onclick="showmoviecard('action', '2012')">
+            <img src="images/movie/action/armyOfTheDead.jpg" alt="" id="Army of The Dead"
+                onclick="showmoviecard('action', 'Army of The Dead')">
+            <img src="images/movie/action/jackReacher.jpg" alt="" id="Jack Reacher: Never Go Back"
+                onclick="showmoviecard('action', 'Jack Reacher: Never Go Back')">
+            <img src="images/movie/action/lucy.jpg" alt="" id="Lucy" onclick="showmoviecard('action', 'Lucy')">
+            <img src="images/movie/action/naamShabana.jpg" alt="" id="Naam Shabana"
+                onclick="showmoviecard('action', 'Naam Shabana')">
+            <img src="images/movie/action/theOldGuard.jpg" alt="" id="The Old Guard"
+                onclick="showmoviecard('action', 'The Old Guard')">
+        </div>
+        <div id="action" class="feat-card action inactive"></div>
+        <h2>Romantic Indian</h2>
+        <div class="slides">
+            <img src="images/movie/romanticindian/mainHoonNa.jpg" alt="" id="Main Hoon Na"
+                onclick="showmoviecard('romance', 'Main Hoon Na')">
+            <img src="images/movie/romanticindian/yjhd.jpg" alt="" id="Yeh Jawaani Hai Deewani"
+                onclick="showmoviecard('romance', 'Yeh Jawaani Hai Deewani')">
+            <img src="images/movie/romanticindian/znmd.jpg" alt="" id="Zindagi Na Milegi Dobara"
+                onclick="showmoviecard('romance', 'Zindagi Na Milegi Dobara')">
+            <img src="images/movie/romanticindian/kabirsingh.jpg" alt="" id="Kabir Singh"
+                onclick="showmoviecard('romance', 'Kabir Singh')">
+            <img src="images/movie/romanticindian/jabWeMet.jpg" alt="" id="Jab We Met"
+                onclick="showmoviecard('romance', 'Jab We Met')">
+            <img src="images/movie/romanticindian/bareilyKiBarfi.jpg" alt="" id="Bareilly Ki Barfi"
+                onclick="showmoviecard('romance', 'Bareilly Ki Barfi')">
+            <img src="images/movie/romanticindian/jodhaAkbar.jpg" alt="" id="Jodhaa Akbar"
+                onclick="showmoviecard('romance', 'Jodhaa Akbar')">
+            <img src="images/movie/romanticindian/kalHoNaaHo.jpg" alt="" id="Kal Ho Naa Ho"
+                onclick="showmoviecard('romance', 'Kal Ho Naa Ho')">
+            <img src="images/movie/romanticindian/theLunchbox.jpg" alt="The Lunchbox"
+                onclick="showmoviecard('romance', 'The Lunchbox')">
+            <img src="images/movie/romanticindian/omShantiOm.jpg" alt="" id="Om Shanti Om"
+                onclick="showmoviecard('romance', 'Om Shanti Om')">
+            <img src="images/movie/romanticindian/chennaiExpress.jpg" alt="" id="Chennai Express"
+                onclick="showmoviecard('romance', 'Chennai Express')">
+        </div>
+        <div id="romance" class="feat-card romance inactive"></div>
+        <h2>Thriller</h2>
+        <div class=" slides">
+            <img src="images/movie/thriller/andhadhun.jpg" alt="" id="Andhadhun"
+                onclick="showmoviecard('thriller', 'Andhadhun')">
+            <img src="images/movie/thriller/joker.jpg" alt="" id="Joker" onclick="showmoviecard('thriller', 'Joker')">
+            <img src="images/movie/thriller/birdBox.jpg" alt="" id="Bird Box"
+                onclick="showmoviecard('thriller', 'Bird Box')">
+            <img src="images/movie/thriller/article15.jpg" alt="" id="Article 15"
+                onclick="showmoviecard('thriller', 'Article 15')">
+            <img src="images/movie/thriller/nowYouSeeMe.jpg" alt="" id="Now You See Me"
+                onclick="showmoviecard('thriller', 'Now You See Me')">
+            <img src="images/movie/thriller/mom.jpg" alt="" id="Mom" onclick="showmoviecard('thriller', 'Mom')">
+            <img src="images/movie/thriller/armyOfThieves.jpg" alt="" id="Army of Thieves"
+                onclick="showmoviecard('thriller', 'Army of Thieves')">
+            <img src="images/movie/thriller/shutterIsland.jpg" alt="" id="Shutter Island"
+                onclick="showmoviecard('thriller', 'Shutter Island')">
+            <img src="images/movie/thriller/talaash.jpg" alt="" id="Talaash"
+                onclick="showmoviecard('thriller', 'Talaash')">
+            <img src="images/movie/thriller/theDaVinciCode.jpg" alt="" id="The Da Vinci Code"
+                onclick="showmoviecard('thriller', 'The Da Vinci Code')">
+            <img src="images/movie/thriller/special26.jpg" alt="" id="Special 26"
+                onclick="showmoviecard('thriller', 'Special 26')">
+        </div>
+        <div id="thriller" class="feat-card thriller inactive"></div>
+    </div>
+
+    <footer>
+        <div class="wrapper">
+            <div class="contact">Questions? Call <a href="">000-800-040-1843</a></div>
+            <ul class="links">
+                <li><a href="#" class="link">FAQ</a></li>
+                <li><a href="#" class="link">Help Centre</a></li>
+                <li><a href="#" class="link">Account</a></li>
+                <li><a href="#" class="link">Media Centre</a></li>
+                <li><a href="#" class="link">Investor Relations</a></li>
+                <li><a href="#" class="link">Jobs</a></li>
+                <li><a href="#" class="link">Ways to Watch</a></li>
+                <li><a href="#" class="link">Terms of Use</a></li>
+                <li><a href="#" class="link">Privacy</a></li>
+                <li><a href="#" class="link">Cookie Preferences</a></li>
+                <li><a href="#" class="link">Corporate Information</a></li>
+                <li><a href="#" class="link">Contact Us</a></li>
+                <li><a href="#" class="link">Speed Test</a></li>
+                <li><a href="#" class="link">Legal Notices</a></li>
+                <li><a href="#" class="link">Only on Netflix</a></li>
+            </ul>
+        </div>
+    </footer>
+
+    <script src="movie.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,356 @@
+[
+    {
+        "popular": [
+            {
+                "title": "All of Us Are Dead",
+                "image": "images/tv/popular/aouad.jpg",
+                "desc": "Trapped students must escape their high school which has become ground zero for a zombie virus outbreak."
+            },
+            {
+                "title": "Squid Game",
+                "image": "images/tv/popular/squdGame.jpg",
+                "desc": "Hundreds of cash-strapped contestants accept an invitation to compete in children's games for a tempting prize, but the stakes are deadly."
+            },
+            {
+                "title": "F.R.I.E.N.D.S",
+                "image": "images/tv/popular/friends.jpg",
+                "desc": "Follow the lives of six reckless adults living in Manhattan, as they indulge in adventures which make their lives both troublesome and happening."
+            },
+            {
+                "title": "Kota Factory",
+                "image": "images/tv/popular/kotafactory.jpg",
+                "desc": "Like many students from across India, Vaibhav comes to Kota to prepare for JEE and NEET. Along with his friends, he navigates campus life and works hard to get into IIT."
+            },
+            {
+                "title": "The Big Bang Theory",
+                "image": "images/tv/popular/theBigBangTheory.jpg",
+                "desc": "The lives of four socially awkward friends, Leonard, Sheldon, Howard and Raj, take a wild turn when they meet the beautiful and free-spirited Penny."
+            },
+            {
+                "title": "Lucifer",
+                "image": "images/tv/popular/lucifer.jpg",
+                "desc": "Lucifer Morningstar has decided he's had enough of being the dutiful servant in Hell and decides to spend some time on Earth to better understand humanity. He settles in Los Angeles - the City of Angels."
+            },
+            {
+                "title": "Naruto",
+                "image": "images/tv/popular/naruto.jpg",
+                "desc": "Naruto is a Japanese manga series written and illustrated by Masashi Kishimoto. It tells the story of Naruto Uzumaki, a young ninja who seeks recognition from his peers and dreams of becoming the Hokage, the leader of his village. "
+            },
+            {
+                "title": "Suits",
+                "image": "images/tv/popular/suits.jpg",
+                "desc": "Mike Ross, a talented young college dropout, is hired as an associate by Harvey Specter, one of New York's best lawyers. They must handle cases while keeping Mike's qualifications a secret."
+            },
+            {
+                "title": "Stranger Things",
+                "image": "images/tv/popular/strangerThings.jpg",
+                "desc": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries."
+            },
+            {
+                "title": "The Vampire Diaries",
+                "image": "images/tv/popular/theVampireDiaries.jpg",
+                "desc": "On her first day at high school, Elena meets Stefan and immediately feels a connection with him. However, what she does not know is that Stefan and his brother, Damon, are in fact vampires."
+            },
+            {
+                "title": "Vikings",
+                "image": "images/tv/popular/vikings.jpg",
+                "desc": "Ragnar Lothbrok, a legendary Norse hero, is a mere farmer who rises up to become a fearless warrior and commander of the Viking tribes with the support of his equally ferocious family."
+            }
+        ]
+    },
+    {
+        "drama": [
+            {
+                "title": "The Originals",
+                "image": "images/tv/drama/originals.jpg",
+                "desc": "The Original family of vampires settle down in the city of New Orleans that they helped to construct several decades ago. They encounter old buddies and confront new foes."
+            },
+            {
+                "title": "Emily in Paris",
+                "image": "images/tv/drama/emily.jpg",
+                "desc": "Chicago marketing executive Emily Cooper is hired to provide an American perspective at a marketing firm in Paris."
+            },
+            {
+                "title": "You",
+                "image": "images/tv/drama/you.jpg",
+                "desc": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by."
+            },
+            {
+                "title": "Elite",
+                "image": "images/tv/drama/elite.jpg",
+                "desc": "When three working-class teens enroll in an exclusive private school in Spain, the clash between them and the wealthy students leads to murder."
+            },
+            {
+                "title": "The Blacklist",
+                "image": "images/tv/drama/blacklist.jpg",
+                "desc": "A wanted fugitive mysteriously surrenders himself to the FBI and offers to help them capture deadly criminals. His sole condition is that he will work only with the new profiler, Elizabeth Keen."
+            },
+            {
+                "title": "The Crown",
+                "image": "images/tv/drama/crown.jpg",
+                "desc": "Follows the political rivalries and romance of Queen Elizabeth II's reign and the events that shaped the second half of the twentieth century."
+            },
+            {
+                "title": "13 Reasons Why",
+                "image": "images/tv/drama/13rw.jpg",
+                "desc": "Follows teenager Clay Jensen, in his quest to uncover the story behind his classmate and crush, Hannah, and her decision to end her life."
+            },
+            {
+                "title": "Riverdale",
+                "image": "images/tv/drama/riverdale.jpg",
+                "desc": "Archie, Betty, Jughead and Veronica tackle being teenagers in a town that is rife with sinister happenings and blood-thirsty criminals."
+            },
+            {
+                "title": "The King: Eternal Monarch",
+                "image": "images/tv/drama/king.jpg",
+                "desc": "Korean emperor Lee Gon tries to close the doors to a parallel world which was opened by demons; a detective tries to protect the people and the one she loves."
+            },
+            {
+                "title": "Descendants of the Sun",
+                "image": "images/tv/drama/dots.jpg",
+                "desc": "A soldier belonging to the South Korean Special Forces falls in love with a beautiful surgeon. However, their relationship is short-lived as their professions keep them apart."
+            },
+            {
+                "title": "Lupin",
+                "image": "images/tv/drama/lupin.jpg",
+                "desc": "A retelling of the classic French story about Arsène Lupin, the world-famous gentleman thief and master of disguise."
+            }
+        ]
+    },
+    {
+        "scifi": [
+            {
+                "title": "Dark",
+                "image": "images/tv/sci-fi/dark.jpg",
+                "desc": "A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families."
+            },
+            {
+                "title": "Rick & Morty",
+                "image": "images/tv/sci-fi/rick&Morty.jpg",
+                "desc": "Rick, an alcoholic sociopath and scientist, lives with his daughter Beth's family. Apart from building gadgets, he takes his morally right but dimwit grandson Morty on absurd intergalactic adventures."
+            },
+            {
+                "title": "The Umbrella Academy",
+                "image": "images/tv/sci-fi/theUmbrellaAcademy.jpg",
+                "desc": "A family of former child heroes, now grown apart, must reunite to continue to protect the world."
+            },
+            {
+                "title": "Titans",
+                "image": "images/tv/sci-fi/titans.jpg",
+                "desc": "A team of young superheroes combat evil and other perils."
+            },
+            {
+                "title": "Hellbound",
+                "image": "images/tv/sci-fi/hellbound.jpg",
+                "desc": "Unearthly beings deliver condemnations, sending individuals to hell and giving rise to a religious group founded on the idea of divine justice"
+            },
+            {
+                "title": "The Originals",
+                "image": "images/tv/sci-fi/theOriginals.jpg",
+                "desc": "The Original family of vampires settle down in the city of New Orleans that they helped to construct several decades ago. They encounter old buddies and confront new foes."
+            },
+            {
+                "title": "The Order",
+                "image": "images/tv/sci-fi/theOrder.jpg",
+                "desc": "Out to avenge his mother's death, a college student pledges to a secret order and lands in a war between werewolves and practitioners of dark magic."
+            },
+            {
+                "title": "Shadowhunters: The Mortal Instruments",
+                "image": "images/tv/sci-fi/shadowhunters.jpg",
+                "desc": "After her mother disappears, Clary must venture into the dark world of demon hunting, and embrace her new role among the Shadowhunters."
+            },
+            {
+                "title": "Chilling Adventures of Sabrina",
+                "image": "images/tv/sci-fi/caos.jpg",
+                "desc": "As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic."
+            },
+            {
+                "title": "Another Life",
+                "image": "images/tv/sci-fi/anotherLife.jpg",
+                "desc": "Astronaut Niko Breckenridge and her young crew face unimaginable danger as they go on a high-risk mission to explore the genesis of an alien artifact."
+            },
+            {
+                "title": "The Haunting of Hill House",
+                "image": "images/tv/sci-fi/thohh.jpg",
+                "desc": "Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it."
+            }
+        ]
+    },
+    {
+        "action": [
+            {
+                "title": "The Witcher",
+                "image": "images/tv/action&adventure/theWitcher.jpg",
+                "desc": "The witcher Geralt, a mutated monster hunter, struggles to find his place in a world in which people often prove more wicked than beasts."
+            },
+            {
+                "title": "Cobra Kai",
+                "image": "images/tv/action&adventure/cobraKai.jpg",
+                "desc": "Thirty four years after events of the 1984 All Valley Karate Tournament, a down-and-out Johnny Lawrence seeks redemption by reopening the infamous Cobra Kai dojo, reigniting his rivalry with a now successful Daniel LaRusso."
+            },
+            {
+                "title": "The Walking Dead",
+                "image": "images/tv/action&adventure/twd.jpg",
+                "desc": "In the wake of a zombie apocalypse, various survivors struggle to stay alive. As they search for safety and evade the undead, they are forced to grapple with rival groups and difficult choices."
+            },
+            {
+                "title": "Arrow",
+                "image": "images/tv/action&adventure/arrow.jpg",
+                "desc": "After mastering the skill of archery on a deserted island, multi-millionaire playboy Oliver Queen returns to his city to take on the vigilante persona of Arrow to fight crime and corruption."
+            },
+            {
+                "title": "The 100",
+                "image": "images/tv/action&adventure/the100.jpg",
+                "desc": "A nuclear conflict has decimated civilisation. A century later, a spaceship accommodating humanity's lone survivors dispatch 100 juvenile delinquents back to the Earth to determine its habitability."
+            },
+            {
+                "title": "Snowpiercer",
+                "image": "images/tv/action&adventure/snowpiercer.jpg",
+                "desc": "When the earth is frozen, only a few survivors of the human race are left and they board a train travelling the globe. Curtis leads a group of people wanting to control the engine and the future."
+            },
+            {
+                "title": "Titans",
+                "image": "images/tv/action&adventure/titans.jpg",
+                "desc": "A team of young superheroes combat evil and other perils."
+            },
+            {
+                "title": "The Umbrella Academy",
+                "image": "images/tv/action&adventure/theUmbrellaAcademy.jpg",
+                "desc": "A family of former child heroes, now grown apart, must reunite to continue to protect the world."
+            },
+            {
+                "title": "The Last Kingdom",
+                "image": "images/tv/action&adventure/theLastKingdom.jpg",
+                "desc": "During their invasion of England, the Danes capture Uhtred, a young successor of Saxon earldom, and raise him as their own. Years later, Uhtred's loyalties are put to the test by the Danes."
+            },
+            {
+                "title": "Cursed",
+                "image": "images/tv/action&adventure/cursed.jpg",
+                "desc": "In a retelling of the Arthurian legend, teenage sorceress Nimue joins forces with a young and charming mercenary named Arthur on a mission to save her people."
+            },
+            {
+                "title": "Lupin",
+                "image": "images/tv/action&adventure/lupin.jpg",
+                "desc": "A retelling of the classic French story about Arsène Lupin, the world-famous gentleman thief and master of disguise."
+            }
+        ]
+    },
+    {
+        "crime": [
+            {
+                "title": "Sacred Games",
+                "image": "images/tv/crime/sacredaGames.jpg",
+                "desc": "A link in their pasts leads an honest cop to a fugitive gang boss, whose cryptic warning spurs the officer on a quest to save Mumbai from cataclysm."
+            },
+            {
+                "title": "Narcos",
+                "image": "images/tv/crime/narcos.jpg",
+                "desc": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years."
+            },
+            {
+                "title": "Ozark",
+                "image": "images/tv/crime/ozark.jpg",
+                "desc": "A financial advisor drags his family from Chicago to the Missouri Ozarks, where he must launder money to appease a drug boss."
+            },
+            {
+                "title": "MINDHUNTER",
+                "image": "images/tv/crime/mindHunter.jpg",
+                "desc": "Set in the late 1970s, two FBI agents are tasked with interviewing serial killers to solve open cases."
+            },
+            {
+                "title": "Peaky Blinders",
+                "image": "images/tv/crime/peakyBlinders.jpg",
+                "desc": "Tommy Shelby, a dangerous man, leads the Peaky Blinders, a gang based in Birmingham. Soon, Chester Campbell, an inspector, decides to nab him and put an end to the criminal activities."
+            },
+            {
+                "title": "Gotham",
+                "image": "images/tv/crime/gotham.jpg",
+                "desc": "Detective James Gordon is a new recruit assigned to investigate the murder of Thomas and Martha Wayne. The case acquaints him with the slain couple's son and future crusader, Bruce."
+            },
+            {
+                "title": "Good Girls",
+                "image": "images/tv/crime/goodgirls.jpg",
+                "desc": "Three suburban mothers suddenly find themselves in desperate circumstances and decide to stop playing it safe and risk everything to take their power back."
+            },
+            {
+                "title": "S.W.A.T",
+                "image": "images/tv/crime/swat.jpg",
+                "desc": "Sergeant Daniel and his team from the LAPD fight dangerous criminals and strive to protect the public from the threat they impose."
+            },
+            {
+                "title": "The Blacklist",
+                "image": "images/tv/crime/theBlacklist.jpg",
+                "desc": "A wanted fugitive mysteriously surrenders himself to the FBI and offers to help them capture deadly criminals. His sole condition is that he will work only with the new profiler, Elizabeth Keen."
+            },
+            {
+                "title": "Clickbait",
+                "image": "images/tv/crime/clickBAit.jpg",
+                "desc": "When family man Nick Brewer is abducted in a crime with a sinister online twist, those closest to him race to uncover who is behind it and why."
+            },
+            {
+                "title": "Dark",
+                "image": "images/tv/crime/dark.jpg",
+                "desc": "A family saga with a supernatural twist, set in a German town, where the disappearance of two young children exposes the relationships among four families."
+            }
+        ]
+    },
+    {
+        "children": [
+            {
+                "title": "Jurrasic World",
+                "image": "images/tv/children/jurrasicworld.jpg",
+                "desc": "A theme park showcasing genetically-engineered dinosaurs turns into a nightmare for its tourists when one of the dinosaurs escapes its enclosure. An ex-military animal expert steps up to save the day."
+            },
+            {
+                "title": "The Boss Baby",
+                "image": "images/tv/children/theBossBAby.jpg",
+                "desc": "Seven-year-old Tim gets jealous when his parents give all their attention to his little brother. Tim soon learns that the baby can talk and the two team up to foil the plans of the CEO of Puppy Co."
+            },
+            {
+                "title": "Peppa Pig",
+                "image": "images/tv/children/peppaPig.jpg",
+                "desc": "Peppa, an outgoing preschool pig, participates in many energetic activities. She learns something new every day and has a lot of fun with her family and friends."
+            },
+            {
+                "title": "Masha & The Bear",
+                "image": "images/tv/children/masha&thebeargo.jpg",
+                "desc": "A retired circus bear decides to live a quiet life in the forest. However, when Masha, a sprightly young girl, enters the forest, his peaceful life is interrupted."
+            },
+            {
+                "title": "Akbar Birbal",
+                "image": "images/tv/children/akbar.jpg",
+                "desc": "From battles of wit to fights for justice, Emperor Akbar and his trusty advisor Birbal display their unique bond through adventures in Mughal-era India."
+            },
+            {
+                "title": "Alexa & Katie",
+                "image": "images/tv/children/alexa&katie.jpg",
+                "desc": "Lifelong best friends Alexa Mendoza and Katie Cooper are anticipating the start of their freshman year of high school. They confront a crisis that leaves them feeling like outsiders at a time when fitting in is what seems to matter most."
+            },
+            {
+                "title": "Beyblade",
+                "image": "images/tv/children/beyblade.jpg",
+                "desc": "Tyson Granger dreams of being the world champion of beyblading -- a sport that involves ritualized combat between enchanted spinning tops."
+            },
+            {
+                "title": "Dragons: Race to the Edge",
+                "image": "images/tv/children/dragons.jpg",
+                "desc": "From the creators of 'How to Train Your Dragon' comes a new series that takes Hiccup and Toothless to the edge of adventure."
+            },
+            {
+                "title": "Grizzy and The Lemmings",
+                "image": "images/tv/children/grizzy.jpg",
+                "desc": "Grizzy, a grizzly bear, takes over the forest ranger's house every time he leaves and considers it as his own. This changes when a tribe of lemmings also moves into the house."
+            },
+            {
+                "title": "Teen Titans Go",
+                "image": "images/tv/children/teenTitansGo.jpg",
+                "desc": "The superheroes Robin, Cyborg, Starfire, Raven and Beast Boy love saving the world. But after they decide to stop fighting crime, things do not go as planned."
+            },
+            {
+                "title": "Raising Dion",
+                "image": "images/tv/children/raisingDion.jpg",
+                "desc": "A single mother must hide her young son's superpowers to protect him from exploitation while investigating their origins and her husband's death."
+            }
+        ]
+    }
+]

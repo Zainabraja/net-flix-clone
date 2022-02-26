@@ -1,0 +1,356 @@
+[
+    {
+        "popular": [
+            {
+                "title": "Dolittle",
+                "image": "images/movie/popular/dolittle.jpg",
+                "desc": "A physician, who can speak with animals, is summoned by the queen to find a cure for her life-threatening disease. Soon, he embarks on a journey with his furry friends in search of a healing tree."
+            },
+            {
+                "title": "Red Notice",
+                "image": "images/movie/popular/redNotice.jpg",
+                "desc": "In the world of international crime, an Interpol agent attempts to hunt down and capture the world's most wanted art thief."
+            },
+            {
+                "title": "The Fame Game",
+                "image": "images/movie/popular/theFameGame.jpg",
+                "desc": "When India's most famous actress goes missing, the search for her chips away at the flawless facade of her life and family, revealing painful truths."
+            },
+            {
+                "title": "Spider-Man: Far from Home",
+                "image": "images/movie/popular/spiderman.jpg",
+                "desc": "Peter Parker, the beloved superhero Spider-Man, faces four destructive elemental monsters while on holiday in Europe. Soon, he receives help from Mysterio, a fellow hero with mysterious origins."
+            },
+            {
+                "title": "The Angry Birds Movie 2",
+                "image": "images/movie/popular/theAngryBirds.jpg",
+                "desc": "Bird and Piggy Islands are under threat when Zeta, the leader of Eagle Island, wants to occupy them. Red must join forces with Leonard's team to thwart her bold schemes and save their homes."
+            },
+            {
+                "title": "Dangal",
+                "image": "images/movie/popular/dangal.jpg",
+                "desc": "Mahavir Singh Phogat, a former wrestler, decides to fulfil his dream of winning a gold medal for his country by training his daughters for the Commonwealth Games despite the existing social stigmas."
+            },
+            {
+                "title": "Hotel Transylvania",
+                "image": "images/movie/popular/transylvania.jpg",
+                "desc": "Count Dracula runs a high-end resort for monsters and is overprotective of his daughter, Mavis. When a human named Johnny enters the hotel, Dracula tries to prevent Mavis from falling for him."
+            },
+            {
+                "title": "The Croods",
+                "image": "images/movie/popular/theCroods.jpg",
+                "desc": "In the primaeval era, Grug and his family risk the dangers of their surroundings to find a new dwelling place. Along the way, they meet a modern boy who woos them with his adventurous ways."
+            },
+            {
+                "title": "Dora and the Lost City of Gold",
+                "image": "images/movie/popular/dora.jpg",
+                "desc": "Dora and her group of friends, including Boots the Monkey, go to the forest to look for the lost city of gold. She meets numerous challenges and dangerous situations on the way."
+            },
+            {
+                "title": "STAND BY ME Doraemon 2",
+                "image": "images/movie/popular/standByMe.jpg",
+                "desc": "Nobita travels to the future to show his beloved grandma his bride, but adult Nobita has fled his own wedding."
+            },
+            {
+                "title": "Tall Girl 2",
+                "image": "images/movie/popular/tallGirl.jpg",
+                "desc": "Jodi Kreyman deals with her newfound popularity. Her miscommunications, however, start causing rifts with those around her and now she really needs to 'stand tall'."
+            }
+        ]
+    },
+    {
+        "drama": [
+            {
+                "title": "The Princess Switch",
+                "image": "images/movie/drama/thePrincessSwitch.jpg",
+                "desc": "One week before Christmas, a duchess switches places with an ordinary woman from Chicago, who looks exactly like her, and they each fall in love with each other's beaus."
+            },
+            {
+                "title": "Feel The Beat",
+                "image": "images/movie/drama/feelTheBeat.jpg",
+                "desc": "After failing to find success on Broadway, April returns to her hometown and is recruited to train a misfit group of young dancers."
+            },
+            {
+                "title": "Cycle",
+                "image": "images/movie/drama/cycle.jpg",
+                "desc": "Keshav, an astrologer, deeply values his cycle as it is his most prized possession. However, problems arise when a couple of thieves steal his bicycle."
+            },
+            {
+                "title": "A Christmas Prince",
+                "image": "images/movie/drama/aChristmasPrince.jpg",
+                "desc": "In the lead up to Christmas, a young journalist is sent abroad to go undercover to get the scoop on a playboy prince who is destined to be king."
+            },
+            {
+                "title": "June & Kopi",
+                "image": "images/movie/drama/june&kopi.jpg",
+                "desc": "When a young couple take in a fearful street dog, their pitbull becomes an instant accomplice and helps her adjusts to her new home."
+            },
+            {
+                "title": "Little Woman",
+                "image": "images/movie/drama/littleWoman.jpg",
+                "desc": "While the March sisters enter the threshold of womanhood, they go through many ups and downs in life and endeavour to make important decisions that can affect their future."
+            },
+            {
+                "title": "The Blue Umbrella",
+                "image": "images/movie/drama/theBlueUmbrella.jpg",
+                "desc": "When a few Japanese tourists gift Biniya a blue umbrella, she gains immense popularity. However, Nandakishore, the only shopkeeper in their village, tries to get his hands on her umbrella."
+            },
+            {
+                "title": "The Karate Kid",
+                "image": "images/movie/drama/thekaratekid.jpg",
+                "desc": "Teenager Daniel LaRusso is bullied by Johnny Lawrence, who is adept at martial arts. In order to defend himself, he tries to learn karate from Mr Miyagi, his apartment's kind handyman."
+            },
+            {
+                "title": "The Water Man",
+                "image": "images/movie/drama/theWaterMan.jpg",
+                "desc": "Desperate to save his sick mother, an 11-year-old ventures into the remote Wild Horse forest to search for a mythical figure rumoured to have the power to cheat death."
+            },
+            {
+                "title": "Wasao",
+                "image": "images/movie/drama/wasao.jpg",
+                "desc": "Wasao, an Akita dog in Aomori Prefecture that became famous as an ugly-yet-cute dog from a traveller's blog. Heartwarming drama starring Wasao himself turns part of the life of this former stray into an original story."
+            },
+            {
+                "title": "White Fang",
+                "image": "images/movie/drama/whiteFang.jpg",
+                "desc": "Based on the timeless novel by Jack London. A loyal wolfdog's curiosity leads him on the adventure of a lifetime while serving a series of three distinctly different masters."
+            }
+        ]
+    },
+    {
+        "fantasy": [
+            {
+                "title": "Journey 2: The Mysterious Island",
+                "image": "images/movie/fantasy/journey2.jpg",
+                "desc": "Sean receives a coded signal from an uncharted island which he suspects was sent by his long-missing grandfather. With his stepfather Hanks, he sets out in pursuit of his grandfather and the island."
+            },
+            {
+                "title": "Warcraft",
+                "image": "images/movie/fantasy/warcraft.jpg",
+                "desc": "A few human survivors must team up with a group of dissenting Orcs to stop an Orc horde from invading their planet through a magic portal."
+            },
+            {
+                "title": "PK",
+                "image": "images/movie/fantasy/pk.jpg",
+                "desc": "An innocent alien lands on Earth but loses his communication device. He meets Jaggu, a heartbroken reporter, and tries to find his device. With time, he raises many thought-provoking questions."
+            },
+            {
+                "title": "Mowgli: Legend of the Jungle",
+                "image": "images/movie/fantasy/mowgli.jpg",
+                "desc": "Human child Mowgli is raised by a wolf pack in the jungles of India. As he learns the often harsh rules of the jungle, under the tutelage of a bear named Baloo and a panther named Bagheera, Mowgli becomes accepted by the animals of the jungle as one of their own, but the fearsome tiger Shere Khan doesn't take a liking to him. But there may be greater dangers lurking in the jungle, as Mowgli comes face to face with his human origins."
+            },
+            {
+                "title": "Jumanji: Welcome to the Jungle",
+                "image": "images/movie/fantasy/jumanji.jpg",
+                "desc": "When four students play with a magical video game, they are drawn to the jungle world of Jumanji, where they are trapped as their avatars. To return to the real world, they must finish the game."
+            },
+            {
+                "title": "Fistful of Vengeance",
+                "image": "images/movie/fantasy/fistfulOfVengeance.jpg",
+                "desc": "A revenge mission becomes a fight to save the world from an ancient threat when superpowered assassin Kai tracks a killer to Bangkok."
+            },
+            {
+                "title": "Gods of Egypt",
+                "image": "images/movie/fantasy/godsOfEgypt.jpg",
+                "desc": "Set, the God of the underworld, seizes the throne from the previous king of the Egyptian Empire and spreads terror throughout the land until a flawed mortal attempts to challenge the evil himself."
+            },
+            {
+                "title": "Monster Hunter",
+                "image": "images/movie/fantasy/monsterHunter.jpg",
+                "desc": "Captain Artemis and her group of soldiers are pulled into a world where dangerous monsters and humans co-exist. Grappled by danger, they must find a way to escape with help from a mysterious hunter."
+            },
+            {
+                "title": "The Last Airbender",
+                "image": "images/movie/fantasy/theLastAirbender.jpg",
+                "desc": "Aang, a 12-year-old boy, must put his childhood aside to impede chaos that the Fire Nation is creating. He embarks on a quest to restore harmony in the nations of Water, Earth and Air."
+            },
+            {
+                "title": "The Mummy",
+                "image": "images/movie/fantasy/theMummy.jpg",
+                "desc": "Adventurer Rick O'Connell and Egyptologist Evelyn, along with a bunch of archaeologists, inadvertently wake up an evil mummy during an archaeological excavation at the ancient city of Hamunaptra."
+            },
+            {
+                "title": "Goosebumps",
+                "image": "images/movie/fantasy/goosebumps.jpg",
+                "desc": "R L Stine, the author of 'Goosebumps', is shocked when demons from his books come to life and create havoc in Delaware. Later, he, his daughter, Hannah, and her friend Zach strive to put things right."
+            }
+        ]
+    },
+    {
+        "action": [
+            {
+                "title": "Extraction",
+                "image": "images/movie/action/extraction.jpg",
+                "desc": "A black-market mercenary who has nothing to lose is hired to rescue the kidnapped son of an imprisoned international crime lord. But in the murky underworld of weapons dealers and drug traffickers, an already deadly mission approaches the impossible."
+            },
+            {
+                "title": "The Meg",
+                "image": "images/movie/action/theMeg.jpg",
+                "desc": "When the members of an underwater research facility are under threat owing to a 75-foot prehistoric shark, Jonas Taylor, a deep-sea diver, is hired to save them."
+            },
+            {
+                "title": "The Equalizer 2",
+                "image": "images/movie/action/theEqualizer.jpg",
+                "desc": "Robert McCall's close friend, Susan Plummer, is murdered while investigating a murder-suicide. As a former spy, he leverages his skills and resources to find the culprit and avenge her death."
+            },
+            {
+                "title": "Gangs of Wasseypur: Part 1",
+                "image": "images/movie/action/gangsOfWasseypur.jpg",
+                "desc": "Sardar sets out to avenge his father who was murdered by Ramadhir Singh, a cunning politician and mining kingpin. In the ensuing war, many unresolved family feuds erupt creating unrest."
+            },
+            {
+                "title": "Mission: Impossible - Fallout",
+                "image": "images/movie/action/missionImpossible.jpg",
+                "desc": "A group of terrorists plans to detonate three plutonium cores for a simultaneous nuclear attack on different cities. Ethan Hunt, along with his IMF team, sets out to stop the carnage."
+            },
+            {
+                "title": "2012",
+                "image": "images/movie/action/2012.jpg",
+                "desc": "It's the end of the world and only a select few millionaires were warned while the rest of the people are left to fend for themselves. Writer Curtis is one such man who struggles to save his family."
+            },
+            {
+                "title": "Army of The Dead",
+                "image": "images/movie/action/armyOfTheDead.jpg",
+                "desc": "After a zombie outbreak in Las Vegas, a group of mercenaries take the ultimate gamble and venture into the quarantine zone in hopes of pulling off an impossible heist."
+            },
+            {
+                "title": "Jack Reacher: Never Go Back",
+                "image": "images/movie/action/jackReacher.jpg",
+                "desc": "When Major Susan Turner is arrested for treason, ex-investigator Jack Reacher undertakes the challenging task to prove her innocence and ends up exposing a shocking conspiracy."
+            },
+            {
+                "title": "Lucy",
+                "image": "images/movie/action/lucy.jpg",
+                "desc": "Lucy gains extraordinary physical and mental capabilities after the effects of a performance-enhancing drug set in. Soon, she evolves into a warrior bent on destroying those who held her captive."
+            },
+            {
+                "title": "Naam Shabana",
+                "image": "images/movie/action/naamShabana.jpg",
+                "desc": "Jai dies in an altercation with some gangsters, who are teasing Shabana. Later, Shabana gets a call offering help to avenge Jai's death provided that she agrees to join a secret intelligence agency."
+            },
+            {
+                "title": "The Old Guard",
+                "image": "images/movie/action/theOldGuard.jpg",
+                "desc": "A group of mercenaries, all centuries-old immortals with the ablity to heal themselves, discover someone is onto their secret, and they must fight to protect their freedom."
+            }
+        ]
+    },
+    {
+        "romance": [
+            {
+                "title": "Main Hoon Na",
+                "image": "images/movie/romanticindian/mainHoonNa.jpg",
+                "desc": "Major Ram is given orders to go undercover as a college student to protect a general's daughter from a rogue soldier. He even has to fulfil his dying father's desire to reconcile with his family."
+            },
+            {
+                "title": "Yeh Jawaani Hai Deewani",
+                "image": "images/movie/romanticindian/yjhd.jpg",
+                "desc": "Kabir and Naina meet during a trekking trip where she falls in love with him but refrains from expressing it. They soon drift apart but end up meeting at a friend's wedding."
+            },
+            {
+                "title": "Zindagi Na Milegi Dobara",
+                "image": "images/movie/romanticindian/znmd.jpg",
+                "desc": "Friends Kabir, Imran and Arjun take a vacation in Spain before Kabir's marriage. The trip turns into an opportunity to mend fences, heal wounds, fall in love with life and combat their worst fears."
+            },
+            {
+                "title": "Kabir Singh",
+                "image": "images/movie/romanticindian/kabirsingh.jpg",
+                "desc": "Kabir, a genius yet hostile medical student, falls in love with Preeti from his college. When Preeti's father spots the couple kissing, he opposes their relationship and decides to marry her off."
+            },
+            {
+                "title": "Jab We Met",
+                "image": "images/movie/romanticindian/jabWeMet.jpg",
+                "desc": "Aditya, a heartbroken business tycoon, aimlessly boards a train to escape his depressing life. He meets Geet, a bubbly Punjabi girl, and gets pulled into her crazy life."
+            },
+            {
+                "title": "Bareilly Ki Barfi",
+                "image": "images/movie/romanticindian/bareilyKiBarfi.jpg",
+                "desc": "After reading a book that changes her life, Bitti is intent on meeting the author. Her quest takes her to a publisher, Chirag, who leads her to believe that the writer is Pritam Vidrohi."
+            },
+            {
+                "title": "Jodhaa Akbar",
+                "image": "images/movie/romanticindian/jodhaAkbar.jpg",
+                "desc": "Jodhaa is a fiery Rajput princess who is obliged to marry Mughal Emperor Akbar for political reasons. Eventually, mutual respect and admiration between the duo leads to true love."
+            },
+            {
+                "title": "Kal Ho Naa Ho",
+                "image": "images/movie/romanticindian/kalHoNaaHo.jpg",
+                "desc": "Naina, a girl living a dreary life, finds a new meaning to her life when she meets Aman. Even though she loves him, Aman claims to be a married man and convinces Rohit, her friend, to woo her."
+            },
+            {
+                "title": "The Lunchbox",
+                "image": "images/movie/romanticindian/theLunchbox.jpg",
+                "desc": "An unlikely mistake by a tiffin carrier service results in Ila's tiffin, that was made for her husband, being delivered to Saajan Fernandes. An unusual friendship soon develops between the two."
+            },
+            {
+                "title": "Om Shanti Om",
+                "image": "images/movie/romanticindian/omShantiOm.jpg",
+                "desc": "Om, a junior film artist, is smitten by Shantipriya, a renowned actress, but is killed while trying to save her from a fire accident. Thirty years later, he is reborn and sets out to avenge her death."
+            },
+            {
+                "title": "Chennai Express",
+                "image": "images/movie/romanticindian/chennaiExpress.jpg",
+                "desc": "Rahul, a young man, sets out to immerse his late grandfather's ashes at Rameshwaram. However, when he helps Meena, a runaway bride, board a train, he has to face the ire of her criminal family."
+            }
+        ]
+    },
+    {
+        "thriller": [
+            {
+                "title": "Andhadhun",
+                "image": "images/movie/thriller/andhadhun.jpg",
+                "desc": "Akash, a piano player pretending to be visually-impaired, unwittingly becomes entangled in a number of problems as he witnesses the murder of a former film actor."
+            },
+            {
+                "title": "Joker",
+                "image": "images/movie/thriller/joker.jpg",
+                "desc": "Arthur Fleck, a party clown, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of crime and chaos."
+            },
+            {
+                "title": "Bird Box",
+                "image": "images/movie/thriller/birdBox.jpg",
+                "desc": "When a mysterious force decimates the population, only one thing is certain -- if you see it, you die. The survivors must now avoid coming face to face with an entity that takes the form of their worst fears. Searching for hope and a new beginning, a woman and her children embark on a dangerous journey through the woods and down a river to find the one place that may offer sanctuary. To make it, they'll have to cover their eyes from the evil that chases them -- and complete the trip blindfolded."
+            },
+            {
+                "title": "Article 15",
+                "image": "images/movie/thriller/article15.jpg",
+                "desc": "An upright city-bred police officer launches an attack against the caste system after caste-based discrimination and other crimes are dismissed in rural India."
+            },
+            {
+                "title": "Now You See Me",
+                "image": "images/movie/thriller/nowYouSeeMe.jpg",
+                "desc": "Four street magicians, Daniel, Merritt, Henley and Jack, ransack a huge amount of money belonging to insurance baron Arthur Tressler while being chased by police officers."
+            },
+            {
+                "title": "Mom",
+                "image": "images/movie/thriller/mom.jpg",
+                "desc": "Christy, a newly sober single mother, attempts to pull her life together by avoiding alcohol. However, when her estranged mother walks into her life, she has to deal with her eccentricities."
+            },
+            {
+                "title": "Army of Thieves",
+                "image": "images/movie/thriller/armyOfThieves.jpg",
+                "desc": "In this prequel to Army of the Dead, a mysterious woman recruits bank teller Dieter to assist in a heist of impossible-to-crack safes across Europe."
+            },
+            {
+                "title": "Shutter Island",
+                "image": "images/movie/thriller/shutterIsland.jpg",
+                "desc": "Teddy Daniels and Chuck Aule, two US marshals, are sent to an asylum on a remote island in order to investigate the disappearance of a patient, where Teddy uncovers a shocking truth about the place."
+            },
+            {
+                "title": "Talaash",
+                "image": "images/movie/thriller/talaash.jpg",
+                "desc": "Inspector Shekhawat and his wife are stunned when their son dies. While his wife openly struggles to deal with her loss, he distracts himself by solving the mysterious death of an actor."
+            },
+            {
+                "title": "The Da Vinci Code",
+                "image": "images/movie/thriller/theDaVinciCode.jpg",
+                "desc": "Symbologist Robert Langdon travels from Paris to London to unravel a bizarre murder. Accompanied by a cryptographer, he soon comes across a religious enigma protected by an age-old secret society."
+            },
+            {
+                "title": "Special 26",
+                "image": "images/movie/thriller/special26.jpg",
+                "desc": "A team of tricksters pose as CBI officers and conduct raids to rob politicians and businessmen of their black money. With the real CBI on their trail, they decide to pull off their biggest heist."
+            }
+        ]
+    }
+]

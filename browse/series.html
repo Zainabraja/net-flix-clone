@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+    <title>Browse Series</title>
+</head>
+
+<body>
+    <div class="header series-header">
+        <div class="nav">
+            <img src="images/logo.png" alt="">
+            <a href="./series.html">Series</a>
+            <a href="./films.html">Films</a>
+        </div>
+        <div class="banner">
+            <h1>Watch Money Heist Now</h1>
+            <p>An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing
+                2.4 billion
+                euros from the Royal Mint of Spain.</p>
+            <button class="play" onclick="showPopup()">Play</button>
+            <div class="popup">
+                <div class="blocker" onclick="hidePopup()"></div>
+                <div class="contents">
+                    <video controls>
+                        <source src="Pip  A Short Animated Film by Southeastern Guide Dogs(0).mp4" type="video/mp4">
+                        Your browser does not support HTML video.
+                    </video>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="slides-container">
+        <h2>Popular</h2>
+        <div class="slides">
+            <img src="images/tv/popular/aouad.jpg" alt="" id="All of Us Are Dead"
+                onclick="showseriescard('popular', 'All of Us Are Dead')">
+            <img src="images/tv/popular/squdGame.jpg" alt="" id="Squid Game"
+                onclick="showseriescard('popular', 'Squid Game')">
+            <img src="images/tv/popular/friends.jpg" alt="" id="F.R.I.E.N.D.S"
+                onclick="showseriescard('popular', 'F.R.I.E.N.D.S')">
+            <img src="images/tv/popular/kotafactory.jpg" alt="" id="Kota Factory"
+                onclick="showseriescard('popular', 'Kota Factory')">
+            <img src="images/tv/popular/theBigBangTheory.jpg" alt="" id="The Big Bang Theory"
+                onclick="showseriescard('popular', 'The Big Bang Theory')">
+            <img src="images/tv/popular/lucifer.jpg" alt="" id="Lucifer" onclick="showseriescard('popular', 'Lucifer')">
+            <img src="images/tv/popular/naruto.jpg" alt="" id="Naruto" onclick="showseriescard('popular', 'Naruto')">
+            <img src="images/tv/popular/suits.jpg" alt="" id="Suits" onclick="showseriescard('popular', 'Suits')">
+            <img src="images/tv/popular/strangerThings.jpg" alt="" id="Stranger Things"
+                onclick="showseriescard('popular', 'Stranger Things')">
+            <img src="images/tv/popular/theVampireDiaries.jpg" alt="" id="The Vampire Diaries"
+                onclick="showseriescard('popular', 'The Vampire Diaries')">
+            <img src="images/tv/popular/vikings.jpg" alt="" id="Vikings" onclick="showseriescard('popular', 'Vikings')">
+        </div>
+        <div id="popular" class="feat-card popular inactive"></div>
+
+        <h2>Drama</h2>
+        <div class="slides">
+            <img src="images/tv/drama/originals.jpg" alt="" id="The Originals"
+                onclick="showseriescard('drama', 'The Originals')">
+            <img src="images/tv/drama/emily.jpg" alt="" id="Emily in Paris"
+                onclick="showseriescard('drama', 'Emily in Paris')">
+            <img src="images/tv/drama/you.jpg" alt="" id="You" onclick="showseriescard('drama', 'You')">
+            <img src="images/tv/drama/elite.jpg" alt="" id="Elite" onclick="showseriescard('drama', 'Elite')">
+            <img src="images/tv/drama/blacklist.jpg" alt="" id="The Blacklist"
+                onclick="showseriescard('drama', 'The Blacklist')">
+            <img src="images/tv/drama/crown.jpg" alt="" id="The Crown" onclick="showseriescard('drama', 'The Crown')">
+            <img src="images/tv/drama/13rw.jpg" alt="" id="13 Reasons Why"
+                onclick="showseriescard('drama', '13 Reasons Why')">
+            <img src="images/tv/drama/riverdale.jpg" alt="" id="Riverdale"
+                onclick="showseriescard('drama', 'Riverdale')">
+            <img src="images/tv/drama/king.jpg" alt="" id="The King: Eternal Monarch"
+                onclick="showseriescard('drama', 'The King: Eternal Monarch')">
+            <img src="images/tv/drama/dots.jpg" alt="" id="Descendants of the Sun"
+                onclick="showseriescard('drama', 'Descendants of the Sun')">
+            <img src="images/tv/drama/lupin.jpg" alt="" id="Lupin" onclick="showseriescard('drama', 'Lupin')">
+        </div>
+        <div id="drama" class="feat-card drama inactive"></div>
+
+        <h2>Sci-Fi</h2>
+        <div class=" slides">
+            <img src="images/tv/sci-fi/dark.jpg" alt="" id="Dark" onclick="showseriescard('scifi', 'Dark')">
+            <img src="images/tv/sci-fi/rick&Morty.jpg" id=" Rick & Morty"
+                onclick="showseriescard('scifi', 'Rick & Morty')">
+            <img src=" images/tv/sci-fi/theUmbrellaAcademy.jpg" alt="" id="The Umbrella Academy"
+                onclick="showseriescard('scifi', 'The Umbrella Academy')">
+            <img src="images/tv/sci-fi/titans.jpg" alt="" id="Titans" onclick="showseriescard('scifi', 'Titans')">
+            <img src="images/tv/sci-fi/hellbound.jpg" alt="" id="Hellbound"
+                onclick="showseriescard('scifi', 'Hellbound')">
+            <img src="images/tv/sci-fi/theOriginals.jpg" alt="" id="The Originals"
+                onclick="showseriescard('scifi', 'The Originals')">
+            <img src="images/tv/sci-fi/theOrder.jpg" alt="" id="The Order"
+                onclick="showseriescard('scifi', 'The Order')">
+            <img src="images/tv/sci-fi/shadowhunters.jpg" alt="" id="Shadowhunters: The Mortal Instruments"
+                onclick="showseriescard('scifi', 'Shadowhunters: The Mortal Instruments')">
+            <img src="images/tv/sci-fi/caos.jpg" alt="" id="Chilling Adventures of Sabrina"
+                onclick="showseriescard('scifi', 'Chilling Adventures of Sabrina')">
+            <img src="images/tv/sci-fi/anotherLife.jpg" alt="" id="Another Life"
+                onclick="showseriescard('scifi', 'Another Life')">
+            <img src="images/tv/sci-fi/thohh.jpg" alt="" id="The Haunting of Hill House"
+                onclick="showseriescard('scifi', 'The Haunting of Hill House')">
+        </div>
+        <div id="scifi" class="feat-card scifi inactive"></div>
+
+        <h2>Action & Adventure</h2>
+        <div class="slides">
+            <img src="images/tv/action&adventure/theWitcher.jpg" alt="" id="The Witcher"
+                onclick="showseriescard('action', 'The Witcher')">
+            <img src="images/tv/action&adventure/cobraKai.jpg" alt="" id="Cobra Kai"
+                onclick="showseriescard('action', 'Cobra Kai')">
+            <img src="images/tv/action&adventure/twd.jpg" alt="" id="The Walking Dead"
+                onclick="showseriescard('action', 'The Walking Dead')">
+            <img src="images/tv/action&adventure/arrow.jpg" alt="" id="Arrow"
+                onclick="showseriescard('action', 'Arrow')">
+            <img src="images/tv/action&adventure/the100.jpg" alt="" id="The 100"
+                onclick="showseriescard('action', 'The 100')">
+            <img src="images/tv/action&adventure/snowpiercer.jpg" alt="" id="Snowpiercer"
+                onclick="showseriescard('action', 'Snowpiercer')">
+            <img src="images/tv/action&adventure/titans.jpg" alt="" id="Titans"
+                onclick="showseriescard('action', 'Titans')">
+            <img src="images/tv/action&adventure/theUmbrellaAcademy.jpg" alt="" id="The Umbrella Academy"
+                onclick="showseriescard('action', 'The Umbrella Academy')">
+            <img src="images/tv/action&adventure/theLastKingdom.jpg" alt="" id="The Last Kingdom"
+                onclick="showseriescard('action', 'The Last Kingdom')">
+            <img src="images/tv/action&adventure/cursed.jpg" alt="" id="Cursed"
+                onclick="showseriescard('action', 'Cursed')">
+            <img src="images/tv/action&adventure/lupin.jpg" alt="" id="Lupin"
+                onclick="showseriescard('action', 'Lupin')">
+        </div>
+        <div id="action" class="feat-card action inactive"></div>
+
+        <h2>Relentless Crime</h2>
+        <div class="slides">
+            <img src="images/tv/crime/sacredaGames.jpg" alt="" id="Sacred Games"
+                onclick="showseriescard('crime', 'Sacred Games')">
+            <img src="images/tv/crime/narcos.jpg" alt="" id="Narcos" onclick="showseriescard('crime', 'Narcos')">
+            <img src="images/tv/crime/ozark.jpg" alt="" id="Ozark" onclick="showseriescard('crime', 'Ozark')">
+            <img src="images/tv/crime/mindHunter.jpg" alt="" id="MINDHUNTER"
+                onclick="showseriescard('crime', 'MINDHUNTER')">
+            <img src="images/tv/crime/peakyBlinders.jpg" alt="" id="Peaky Blinders"
+                onclick="showseriescard('crime', 'Peaky Blinders')">
+            <img src="images/tv/crime/gotham.jpg" alt="" id="Gotham" onclick="showseriescard('crime', 'Gotham')">
+            <img src="images/tv/crime/goodgirls.jpg" alt="" id="Good Girls"
+                onclick="showseriescard('crime', 'Good Girls')">
+            <img src="images/tv/crime/swat.jpg" alt="" id="S.W.A.T" onclick="showseriescard('crime', 'S.W.A.T')">
+            <img src="images/tv/crime/theBlacklist.jpg" alt="" id="The Blacklist"
+                onclick="showseriescard('crime', 'The Blacklist')">
+            <img src="images/tv/crime/clickBAit.jpg" alt="" id="Clickbait"
+                onclick="showseriescard('crime', 'Clickbait')">
+            <img src="images/tv/crime/dark.jpg" alt="" id="Dark" onclick="showseriescard('crime', 'Dark')">
+        </div>
+        <div id="crime" class="feat-card crime inactive"></div>
+
+        <h2>Children</h2>
+        <div class=" slides">
+            <img src="images/tv/children/jurrasicworld.jpg" alt="" id="Jurrasic World"
+                onclick="showseriescard('children', 'Jurrasic World')">
+            <img src="images/tv/children/theBossBAby.jpg" alt="" id="The Boss Baby"
+                onclick="showseriescard('children', 'The Boss Baby')">
+            <img src="images/tv/children/peppaPig.jpg" alt="" id="Peppa Pig"
+                onclick="showseriescard('children', 'Peppa Pig')">
+            <img src="images/tv/children/masha&thebeargo.jpg" alt="" id="Masha & The Bear"
+                onclick="showseriescard('children', 'Masha & The Bear')">
+            <img src="images/tv/children/akbar.jpg" alt="" id="Akbar Birbal"
+                onclick="showseriescard('children', 'Akbar Birbal')">
+            <img src="images/tv/children/alexa&katie.jpg" alt="" id="Alexa & Katie"
+                onclick="showseriescard('children', 'Alexa & Katie')">
+            <img src="images/tv/children/beyblade.jpg" alt="" id="Beyblade"
+                onclick="showseriescard('children', 'Beyblade')">
+            <img src="images/tv/children/dragons.jpg" alt="" id="Dragons: Race to the Edge"
+                onclick="showseriescard('children', 'Dragons: Race to the Edge')">
+            <img src="images/tv/children/grizzy.jpg" alt="" id="Grizzy and The Lemmings"
+                onclick="showseriescard('children', 'Grizzy and The Lemmings')">
+            <img src="images/tv/children/teenTitansGo.jpg" alt="" id="Teen Titans Go"
+                onclick="showseriescard('children', 'Teen Titans Go')">
+            <img src="images/tv/children/raisingDion.jpg" alt="" id="Raising Dion"
+                onclick="showseriescard('children', 'Raising Dion')">
+        </div>
+        <div id="children" class="feat-card children inactive"></div>
+    </div>
+
+    <footer>
+        <div class="wrapper">
+            <div class="contact">Questions? Call <a href="">000-800-040-1843</a></div>
+            <ul class="links">
+                <li><a href="#" class="link">FAQ</a></li>
+                <li><a href="#" class="link">Help Centre</a></li>
+                <li><a href="#" class="link">Account</a></li>
+                <li><a href="#" class="link">Media Centre</a></li>
+                <li><a href="#" class="link">Investor Relations</a></li>
+                <li><a href="#" class="link">Jobs</a></li>
+                <li><a href="#" class="link">Ways to Watch</a></li>
+                <li><a href="#" class="link">Terms of Use</a></li>
+                <li><a href="#" class="link">Privacy</a></li>
+                <li><a href="#" class="link">Cookie Preferences</a></li>
+                <li><a href="#" class="link">Corporate Information</a></li>
+                <li><a href="#" class="link">Contact Us</a></li>
+                <li><a href="#" class="link">Speed Test</a></li>
+                <li><a href="#" class="link">Legal Notices</a></li>
+                <li><a href="#" class="link">Only on Netflix</a></li>
+            </ul>
+        </div>
+    </footer>
+
+    <script src="seires.js"></script>
+</body>
+
+</html>
